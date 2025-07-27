@@ -1,4 +1,4 @@
-# RPQN: Regularized Proximal Quasi-Newton Methods
+# RPQN: Regularized Proximal Quasi-Newton Method
 
 This repository contains a Python implementation of the **Regularized Proximal Quasi-Newton (RPQN)** method as described in [Regularized Proximal Quasi-Newton Methods for Convex Composite Optimization](https://arxiv.org/abs/2210.07644).
 
